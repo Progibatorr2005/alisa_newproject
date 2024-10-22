@@ -1,0 +1,39 @@
+.container_auth{
+    margin: auto auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px
+    
+}
+
+input {
+    height: 36px;
+    border: 2px solid #A2CC84;
+    border: 2px solid #A2CC84;
+    border-radius: 6px;
+    width: 300px;
+    font-family: "Jost", sans-serif;
+    font-size: 18px;
+    padding: 0 10px;
+}
+input:focus {
+    border: 2px solid #86cc55;
+    outline: none;
+}
+
+
+.label1{
+    display: flex;
+    flex-direction: column;
+}
+
+.field{
+    margin-bottom: 10px;
+}
+
+.container_form{
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 6px
+    ;
+}
